@@ -70,7 +70,8 @@ yan@github ~ %  neofetch
   <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=E48FB8" />
 </p>
 
-> Честно: Rust — currently learning, Python — рабочий инструмент. Без раздутого стека.
+> Honestly: Rust — currently learning; Python — a work tool. No bloated stack.
+
 
 ---
 
