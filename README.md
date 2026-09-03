@@ -27,10 +27,10 @@
 
 
 ```text
-Привет! Я Ян — студент по информационной безопасности из Москвы.
-Иду в пресейл-инженеры: люблю разбираться в продукте и объяснять
-сложное простым языком. Сейчас активно осваиваю Rust и Linux,
-чтобы понимать ИБ-продукты не только со стороны продаж.
+Hi! I’m Yan, an information security student from Moscow.
+I enjoy digging into products and explaining complex concepts in simple terms.
+Right now, I’m actively learning Rust and Linux
+to better understand cybersecurity products.
 ```
 
 - 🔐 Information Security student
