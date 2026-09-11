@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-labelledby="title desc">
+<title id="title">Public GitHub statistics for 1nbott0m</title>
+<desc id="desc">Repository, star and follower counts; language percentages by bytes in public non-fork repositories.</desc>
+<rect x="1" y="1" width="1098" height="268" rx="16" fill="#0d0d12" stroke="#44313F"/>
+<g font-family="Menlo,DejaVu Sans Mono,monospace">
+<text x="34" y="38" fill="#E8A0BF" font-size="18">$ github --public</text>
+<text x="34" y="106" fill="#F1E9EE" font-size="40">3</text>
+<text x="34" y="140" fill="#ACA0AD" font-size="13">REPOSITORIES</text>
+<text x="205" y="106" fill="#F1E9EE" font-size="40">0</text>
+<text x="205" y="140" fill="#ACA0AD" font-size="13">STARS</text>
+<text x="354" y="106" fill="#F1E9EE" font-size="40">0</text>
+<text x="354" y="140" fill="#ACA0AD" font-size="13">FOLLOWERS</text>
+<path d="M530 65V198" stroke="#44313F"/>
+<text x="563" y="79" fill="#E8A0BF" font-size="16">CODE MIX / BYTES</text>
+<text x="563" y="110" fill="#F1E9EE" font-size="15">Python  98.9%</text>
+<text x="563" y="136" fill="#F1E9EE" font-size="15">Shell  1.0%</text>
+<text x="563" y="162" fill="#F1E9EE" font-size="15">Batchfile  &lt;0.1%</text>
+<text x="34" y="219" fill="#ACA0AD" font-size="13">Public data only. Languages describe code, not proficiency.</text>
+<text x="34" y="246" fill="#ACA0AD" font-size="12">UPDATED 2026-09-11 17:13 UTC</text>
+</g></svg>
