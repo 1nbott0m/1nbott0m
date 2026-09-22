@@ -12,10 +12,10 @@
 <text x="354" y="140" fill="#ACA0AD" font-size="13">FOLLOWERS</text>
 <path d="M530 65V198" stroke="#44313F"/>
 <text x="563" y="79" fill="#E8A0BF" font-size="16">CODE MIX / BYTES</text>
-<text x="563" y="110" fill="#F1E9EE" font-size="15">Python  46.3%</text>
-<text x="563" y="136" fill="#F1E9EE" font-size="15">Rust  39.7%</text>
-<text x="563" y="162" fill="#F1E9EE" font-size="15">PLpgSQL  13.3%</text>
-<text x="563" y="188" fill="#F1E9EE" font-size="15">Other  0.7%</text>
+<text x="563" y="110" fill="#F1E9EE" font-size="15">Python  45.0%</text>
+<text x="563" y="136" fill="#F1E9EE" font-size="15">Rust  41.3%</text>
+<text x="563" y="162" fill="#F1E9EE" font-size="15">PLpgSQL  13.1%</text>
+<text x="563" y="188" fill="#F1E9EE" font-size="15">Other  0.6%</text>
 <text x="34" y="219" fill="#ACA0AD" font-size="13">Public data only. Languages describe code, not proficiency.</text>
-<text x="34" y="246" fill="#ACA0AD" font-size="12">UPDATED 2026-09-21 14:14 UTC</text>
+<text x="34" y="246" fill="#ACA0AD" font-size="12">UPDATED 2026-09-22 12:38 UTC</text>
 </g></svg>
