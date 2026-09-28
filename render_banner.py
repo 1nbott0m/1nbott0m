@@ -47,7 +47,7 @@ def frame(t):
     text(d, (55, 105), 'PERSONAL FILE  /  001', 16, PINK)
     text(d, (53, 135), '1nbott0m', 67)
     d.rectangle((57, 224, 104, 228), fill=PINK)
-    text(d, (120, 215), 'YAN  /  INFORMATION SECURITY STUDENT', 20, PINK)
+    text(d, (120, 215), 'INFORMATION SECURITY STUDENT', 20, PINK)
 
     # All actual bio information is inside the animation.
     rows = [
@@ -55,7 +55,6 @@ def frame(t):
         ('LEARNING', 'Rust / Linux / Git'),
         ('LOCATION', 'Moscow / UTC+3'),
         ('DEVICE', 'MacBook Pro / Apple M2'),
-        ('SYSTEM', 'macOS / 24 GB RAM / 1 TB SSD'),
     ]
     for idx, (label, value) in enumerate(rows):
         y = 289 + idx * 43
