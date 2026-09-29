@@ -4,18 +4,18 @@
 <rect x="1" y="1" width="1098" height="268" rx="16" fill="#0d0d12" stroke="#44313F"/>
 <g font-family="Menlo,DejaVu Sans Mono,monospace">
 <text x="34" y="38" fill="#E8A0BF" font-size="18">$ github --public</text>
-<text x="34" y="106" fill="#F1E9EE" font-size="40">4</text>
+<text x="34" y="106" fill="#F1E9EE" font-size="40">5</text>
 <text x="34" y="140" fill="#ACA0AD" font-size="13">REPOSITORIES</text>
 <text x="205" y="106" fill="#F1E9EE" font-size="40">0</text>
 <text x="205" y="140" fill="#ACA0AD" font-size="13">STARS</text>
-<text x="354" y="106" fill="#F1E9EE" font-size="40">5</text>
+<text x="354" y="106" fill="#F1E9EE" font-size="40">6</text>
 <text x="354" y="140" fill="#ACA0AD" font-size="13">FOLLOWERS</text>
 <path d="M530 65V198" stroke="#44313F"/>
 <text x="563" y="79" fill="#E8A0BF" font-size="16">CODE MIX / BYTES</text>
-<text x="563" y="110" fill="#F1E9EE" font-size="15">Rust  41.1%</text>
-<text x="563" y="136" fill="#F1E9EE" font-size="15">Python  25.7%</text>
-<text x="563" y="162" fill="#F1E9EE" font-size="15">PLpgSQL  19.6%</text>
-<text x="563" y="188" fill="#F1E9EE" font-size="15">Other  13.5%</text>
+<text x="563" y="110" fill="#F1E9EE" font-size="15">Rust  40.5%</text>
+<text x="563" y="136" fill="#F1E9EE" font-size="15">Python  25.1%</text>
+<text x="563" y="162" fill="#F1E9EE" font-size="15">PLpgSQL  20.4%</text>
+<text x="563" y="188" fill="#F1E9EE" font-size="15">Other  14.0%</text>
 <text x="34" y="219" fill="#ACA0AD" font-size="13">Public data only. Languages describe code, not proficiency.</text>
-<text x="34" y="246" fill="#ACA0AD" font-size="12">UPDATED 2026-09-28 15:33 UTC</text>
+<text x="34" y="246" fill="#ACA0AD" font-size="12">UPDATED 2026-09-29 14:06 UTC</text>
 </g></svg>
