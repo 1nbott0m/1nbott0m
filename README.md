@@ -1,19 +1,10 @@
 <p align="center">
-  <img src="identity.gif" alt="1nbott0m — Yan, Information Security student. Learning Rust, Linux and Git. MacBook Pro with Apple M2, macOS, 24 GB RAM and 1 TB SSD." width="100%" />
+  <img src="identity.gif" alt="inbottom profile banner" width="100%" />
 </p>
 
-### `> whoami`
+### `> inbottom`
 
-I'm **Yan**, an information security student from Moscow. I enjoy understanding how security products work and explaining complex concepts in simple terms.
-
-Currently learning **Rust, Linux and Git**. Python is a work tool.
-
-### `> system_profiler`
-
-```text
-MacBook Pro  /  Apple M2
-macOS       /  24 GB RAM  /  1 TB SSD
-```
+Building and learning in public.
 
 ### `> github --public`
 
