@@ -23,7 +23,7 @@ def font(size):
 def text(draw, xy, value, size=20, fill=WHITE):
     draw.text(xy, value, font=font(size), fill=fill)
 
-# Pixel emblem based on the user's reference: an outlined file with a sad face.
+# Pixel emblem: an outlined file with a sad face.
 MASK = [
     '00111111100000', '00100000100000', '00100000111000',
     '00100000001000', '00101000101000', '00101000001000',
@@ -41,23 +41,21 @@ def frame(t):
     d.line((23, 77, W-24, 77), fill='#44313F')
     for x, color in [(49, PINK), (70, '#886576'), (91, '#4C3A47')]:
         d.ellipse((x, 46, x+9, 55), fill=color)
-    text(d, (120, 39), '1nbott0m@macbook  ~  /identity', 17, MUTED)
-    text(d, (877, 39), 'LOCAL SESSION', 15, PINK)
+    text(d, (120, 39), 'inbottom  /  profile', 17, MUTED)
+    text(d, (877, 39), 'PUBLIC PROFILE', 15, PINK)
 
-    text(d, (55, 105), 'PERSONAL FILE  /  001', 16, PINK)
-    text(d, (53, 135), '1nbott0m', 67)
+    text(d, (55, 105), 'PROFILE', 16, PINK)
+    text(d, (53, 135), 'inbottom', 67)
     d.rectangle((57, 224, 104, 228), fill=PINK)
-    text(d, (120, 215), 'INFORMATION SECURITY STUDENT', 20, PINK)
+    text(d, (120, 215), 'BUILDING IN PUBLIC', 20, PINK)
 
-    # All actual bio information is inside the animation.
     rows = [
-        ('FOCUS', 'Understanding security products'),
-        ('LEARNING', 'Rust / Linux / Git'),
-        ('LOCATION', 'Moscow / UTC+3'),
-        ('DEVICE', 'MacBook Pro / Apple M2'),
+        ('PROJECTS', 'In progress'),
+        ('NOTES', 'Updated occasionally'),
+        ('STATUS', 'Learning and building'),
     ]
     for idx, (label, value) in enumerate(rows):
-        y = 289 + idx * 43
+        y = 304 + idx * 48
         text(d, (56, y), label, 17, MUTED)
         progress = min(1, max(0, (t - .55 - idx*.38) / .55))
         visible = value[:int(len(value) * progress)]
@@ -82,7 +80,7 @@ def frame(t):
     if int(t*2) % 2 == 0:
         x = 72+d.textlength(status, font=font(18))
         d.rectangle((x+10, 560, x+19, 580), fill=PINK)
-    text(d, (56, 615), 'RUST  +  SYSTEMS  +  CURIOSITY', 12, MUTED)
+    text(d, (56, 615), 'BUILD  /  LEARN  /  REPEAT', 12, MUTED)
     text(d, (872, 615), 'SIGNAL / ONLINE', 12, PINK)
     return im
 
